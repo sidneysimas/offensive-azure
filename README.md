@@ -79,6 +79,7 @@ poetry run outsider_recon your-domain.com
 ## Pip
 
 ```
+sudo pip install pipenv  
 pipenv shell
 pip install offensive_azure
 outsider_recon your-domain.com
